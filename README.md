@@ -6,3 +6,7 @@ Decision Trees
 Linear Regression
 Logistic Regression
 Random Forest
+SVM
+Naive Bayes
+KNN
+KMean
