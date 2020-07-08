@@ -10,3 +10,5 @@ SVM
 Naive Bayes
 KNN
 KMean
+
+Regularisation
