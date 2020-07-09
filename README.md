@@ -11,4 +11,4 @@ Naive Bayes
 KNN
 KMean
 
-Regularisation
+Regularisation (Lasso,Ridge,ElasticNet)
