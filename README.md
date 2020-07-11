@@ -3,7 +3,7 @@
 In this repo I have notebooks with a vareity of ML algortithms written without the use of libraries such as Scikit-Learn or Tensorflow.
 
 Decision Trees
-Linear Regression
+Linear Regression (Polynomial)
 Logistic Regression
 Random Forest
 SVM
