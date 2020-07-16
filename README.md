@@ -10,5 +10,6 @@ SVM
 Naive Bayes
 KNN
 KMean
+Bagging
 
 Regularisation (Lasso,Ridge,ElasticNet)
