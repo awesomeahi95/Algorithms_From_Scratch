@@ -11,5 +11,6 @@ Naive Bayes
 KNN
 KMean
 Bagging
+Boosting
 
 Regularisation (Lasso,Ridge,ElasticNet)
