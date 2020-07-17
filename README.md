@@ -12,5 +12,6 @@ KNN
 KMean
 Bagging
 Boosting
+Stacking
 
 Regularisation (Lasso,Ridge,ElasticNet)
