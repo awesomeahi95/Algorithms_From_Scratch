@@ -13,5 +13,7 @@ KMean
 Bagging
 Boosting
 Stacking
+Voting
+
 
 Regularisation (Lasso,Ridge,ElasticNet)
