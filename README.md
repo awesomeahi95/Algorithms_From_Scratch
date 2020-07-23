@@ -19,3 +19,4 @@ Voting
 Regularisation (Lasso,Ridge,ElasticNet)
 
 Vanilla NN
+NN
