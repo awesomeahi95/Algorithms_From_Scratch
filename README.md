@@ -20,4 +20,4 @@ Regularisation (Lasso,Ridge,ElasticNet)
 
 Vanilla NN
 NN
-(tokenisation)
+(tokenisation) for NLP
