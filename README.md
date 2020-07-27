@@ -19,5 +19,5 @@ Voting
 Regularisation (Lasso,Ridge,ElasticNet)
 
 Vanilla NN
-NN
+CNN for images
 (tokenisation) for NLP
