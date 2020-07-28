@@ -20,4 +20,5 @@ Regularisation (Lasso,Ridge,ElasticNet)
 
 Vanilla NN
 CNN for images
+embedding
 (tokenisation) for NLP
